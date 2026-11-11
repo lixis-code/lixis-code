@@ -1,18 +1,23 @@
-# Salut 👋 Quoi de neuf ?
+# Hi 👋 
 
-Je m'appelle **Alexis Vayssière**, actuellement étudiant en informatique chez **Coda**.
-
----
-
-### 🚀 Sur moi
-
-- ✨ **Création en cours :** 
-- 📚 **J'apprends actuellement :** 
-- 🎯 **Objectifs :** 
+My name is **Alexis Vayssière**, and I'm currently an IT student at **Coda** in Dijon, France.
+I am looking for a work-study program (alternance) for the 2027/2028 academic year.
 
 ---
 
-### 🛠️ Je code avec
+### 🚀 About Me
+
+- ✨ **Currently building:** 
+  - Company project: Starboard 
+  - Portfolio
+- 📚 **Currently learning:** PHP
+- 🎯 **Goals:** 
+  - Secure a work-study position
+  - Build diverse projects to gain experience and explore different possibilities
+
+---
+
+### 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +28,7 @@ Je m'appelle **Alexis Vayssière**, actuellement étudiant en informatique chez 
 
 ---
 
-### 🌐 Mes réseaux
+### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-vayssiere-9043b444a)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Vayssiere.alexis@gmail.com)
