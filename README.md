@@ -1,51 +1,30 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+# Salut 👋 Quoi de neuf ?
 
-###
+Je m'appelle **Alexis Vayssière**, actuellement étudiant en informatique chez **Coda**.
 
-<p data-importer="text" align="left">Je m'appelle Alexis Vayssiere, je suis actuellement etudiant en informatique chez coda</p>
+---
 
-###
+### 🚀 Sur moi
 
-<h2 data-importer="text" align="left">About me</h2>
+- ✨ **Création en cours :** [Ton projet actuel]
+- 📚 **J'apprends actuellement :** [Technologies / Sujets]
+- 🎯 **Objectifs :** [Tes objectifs principaux]
+- 🎲 **Anecdote amusante :** [Une petite anecdote]
 
-###
+---
 
-<p data-importer="text" align="left">✨ Creating ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+### 🛠️ Je code avec
 
-###
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h2 data-importer="text" align="left">I code with</h2>
+---
 
-###
+### 🌐 Mes réseaux
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h2 data-importer="text" align="left">Mes reseaux</h2>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/alexis-vayssiere-9043b444a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="vayssiere.alexis@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-vayssiere-9043b444a)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Vayssiere.alexis@gmail.com)
