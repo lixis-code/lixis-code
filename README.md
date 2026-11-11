@@ -6,10 +6,9 @@ Je m'appelle **Alexis Vayssière**, actuellement étudiant en informatique chez 
 
 ### 🚀 Sur moi
 
-- ✨ **Création en cours :** [Ton projet actuel]
-- 📚 **J'apprends actuellement :** [Technologies / Sujets]
-- 🎯 **Objectifs :** [Tes objectifs principaux]
-- 🎲 **Anecdote amusante :** [Une petite anecdote]
+- ✨ **Création en cours :** 
+- 📚 **J'apprends actuellement :** 
+- 🎯 **Objectifs :** 
 
 ---
 
